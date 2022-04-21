@@ -7,4 +7,9 @@
 #### The main objective of this project is to sense the door.
 #### To sense whether it is open or closed.
 #### This is actually indicated by an led which is connected.
+
+
+# FEATURES
+#### The door sensor to sense the door.
+#### Also with an LED.
         
