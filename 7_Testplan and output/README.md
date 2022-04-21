@@ -1,3 +1,6 @@
 # TESTPLAN AND CORRESPONDING OUTPUT
 
 ##### TEST           DESCRIPTION        EXP I/P           EXP O/P         ACTUALO/P            TYPE OF TEST
+##### 1              CHECK WHETHERFIXED VOLTAGE IS FLOWN TO THE CIRCUIT
+##### 2
+##### 3
