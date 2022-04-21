@@ -36,3 +36,8 @@
 #### return 0;
 #### }
 
+## SIMULATION
+![door sensor 1](https://user-images.githubusercontent.com/101242023/164491888-535a8bc9-7c20-46e9-9d8b-5943575886ce.png)
+
+
+
