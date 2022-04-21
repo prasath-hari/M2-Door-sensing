@@ -39,5 +39,9 @@
 ## SIMULATION
 ![door sensor 1](https://user-images.githubusercontent.com/101242023/164491888-535a8bc9-7c20-46e9-9d8b-5943575886ce.png)
 
+## OUTPUT
+![Door sensor output](https://user-images.githubusercontent.com/101242023/164493770-64ffdce7-805c-4adb-b0a9-e1a1e7fc2fd9.png)
+
+
 
 
