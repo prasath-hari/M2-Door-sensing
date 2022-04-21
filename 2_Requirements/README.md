@@ -12,4 +12,16 @@
 # FEATURES
 #### The door sensor to sense the door.
 #### Also with an LED.
+
+
+# 4W'S AND 1'H
+
+## WHO
+#### This project is for the beginner who is studying about microcontroller
+#### And to get a understanding of simuleIDE.
+
+## WHAT
+#### This project will actually detects the door whether opened or closed.
+
+## WHEN
         
