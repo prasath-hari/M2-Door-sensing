@@ -24,4 +24,11 @@
 #### This project will actually detects the door whether opened or closed.
 
 ## WHEN
+#### Students who are studying about microcontroller can acquire knowledge with it.
+
+## WHERE
+#### Students,Employees.
+
+## HOW
+#### This project has comiled and simulated with the correct and efficient output.
         
