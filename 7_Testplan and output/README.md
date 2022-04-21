@@ -6,6 +6,9 @@
 ### ACTUAL O/P 1 : fixed voltage has flown
 
 
+
+
+
 ### TESTPLAN 2   : Check whether LED is glown when door is opened.
 ### EXP I/P 2    : Execution
 ### EXP o/p 2    : LED has glown
